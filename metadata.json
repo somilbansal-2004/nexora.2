@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Portfolio",
+  "description": "NEXORA - Engineering the Next Era. A premium futuristic engineering and technology brand portfolio showcasing expertise in Mechanical, Electrical, Robotics, and AI Development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
